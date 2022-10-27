@@ -1,0 +1,15 @@
+/Users/jasminecarrasco/source/repos/Lab7JasmineCarrasco/obj/Debug/net6.0/Lab7JasmineCarrasco.csproj.AssemblyReference.cache
+/Users/jasminecarrasco/source/repos/Lab7JasmineCarrasco/obj/Debug/net6.0/Lab7JasmineCarrasco.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasminecarrasco/source/repos/Lab7JasmineCarrasco/obj/Debug/net6.0/Lab7JasmineCarrasco.AssemblyInfoInputs.cache
+/Users/jasminecarrasco/source/repos/Lab7JasmineCarrasco/obj/Debug/net6.0/Lab7JasmineCarrasco.AssemblyInfo.cs
+/Users/jasminecarrasco/source/repos/Lab7JasmineCarrasco/obj/Debug/net6.0/Lab7JasmineCarrasco.csproj.CoreCompileInputs.cache
+/Users/jasminecarrasco/source/repos/Lab7JasmineCarrasco/bin/Debug/net6.0/Lab7JasmineCarrasco
+/Users/jasminecarrasco/source/repos/Lab7JasmineCarrasco/bin/Debug/net6.0/Lab7JasmineCarrasco.deps.json
+/Users/jasminecarrasco/source/repos/Lab7JasmineCarrasco/bin/Debug/net6.0/Lab7JasmineCarrasco.runtimeconfig.json
+/Users/jasminecarrasco/source/repos/Lab7JasmineCarrasco/bin/Debug/net6.0/Lab7JasmineCarrasco.dll
+/Users/jasminecarrasco/source/repos/Lab7JasmineCarrasco/bin/Debug/net6.0/Lab7JasmineCarrasco.pdb
+/Users/jasminecarrasco/source/repos/Lab7JasmineCarrasco/obj/Debug/net6.0/Lab7JasmineCarrasco.dll
+/Users/jasminecarrasco/source/repos/Lab7JasmineCarrasco/obj/Debug/net6.0/refint/Lab7JasmineCarrasco.dll
+/Users/jasminecarrasco/source/repos/Lab7JasmineCarrasco/obj/Debug/net6.0/Lab7JasmineCarrasco.pdb
+/Users/jasminecarrasco/source/repos/Lab7JasmineCarrasco/obj/Debug/net6.0/Lab7JasmineCarrasco.genruntimeconfig.cache
+/Users/jasminecarrasco/source/repos/Lab7JasmineCarrasco/obj/Debug/net6.0/ref/Lab7JasmineCarrasco.dll
